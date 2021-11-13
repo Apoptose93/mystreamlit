@@ -1,12 +1,13 @@
 [tool.poetry]
-name = "streamlit"
+name = "mystreamlittest"
 version = "0.1.0"
 description = ""
 authors = ["apoptose <nicbra93@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-streamlit = "1.2.0"
+streamlit = "^1.2.0"
+
 [tool.poetry.dev-dependencies]
 
 [build-system]
