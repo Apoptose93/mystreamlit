@@ -1,0 +1,10 @@
+[WARN] 2021-11-18 12:58:10,123 [main] org.apache.kafka.clients.admin.AdminClientConfig logUnused - The configuration 'consumer.request.timeout.ms' was supplied but isn't a known config.
+[WARN] 2021-11-18 12:58:10,123 [main] org.apache.kafka.clients.admin.AdminClientConfig logUnused - The configuration 'consumer.retry.backoff.ms' was supplied but isn't a known config.
+[WARN] 2021-11-18 12:58:10,124 [main] org.apache.kafka.clients.admin.AdminClientConfig logUnused - The configuration 'listeners.https.ssl.keystore.password' was supplied but isn't a known config.
+[WARN] 2021-11-18 12:58:10,124 [main] org.apache.kafka.clients.admin.AdminClientConfig logUnused - The configuration 'producer.sasl.mechanism' was supplied but isn't a known config.
+[ERROR] 2021-11-18 12:58:10,124 [main] org.apache.kafka.clients.admin.AdminClientConfig logUnused - The configuration 'offset.flush.interval.ms' was supplied but isn't a known config.
+[WARN] 2021-11-18 12:58:10,124 [main] org.apache.kafka.clients.admin.AdminClientConfig logUnused - The configuration 'confluent.topic.security.protocol' was supplied but isn't a known config.
+[WARN] 2021-11-18 12:58:10,124 [main] org.apache.kafka.clients.admin.AdminClientConfig logUnused - The configuration 'listeners.https.ssl.truststore.location' was supplied but isn't a known config.
+[WARN] 2021-11-18 12:58:10,124 [main] org.apache.kafka.clients.admin.AdminClientConfig logUnused - The configuration 'offset.storage.replication.factor' was supplied but isn't a known config.
+[WARN] 2021-11-18 12:58:10,124 [main] org.apache.kafka.clients.admin.AdminClientConfig logUnused - The configuration 'schema.registry.basic.auth.user.info' was supplied but isn't a known config.
+[WARN] 2021-11-18 12:58:10,124 [main] org.apache.kafka.clients.admin.AdminClientConfig logUnused - The configuration 'key.converter.schema.registry.url' was supplied but isn't a known config.
