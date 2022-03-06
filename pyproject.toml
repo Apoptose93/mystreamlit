@@ -8,6 +8,8 @@ authors = ["apoptose <nicbra93@gmail.com>"]
 python = "^3.9"
 streamlit = "^1.2.0"
 importlib-resources = "^5.4.0"
+pyarrow = "^7.0.0"
+pytube = "^12.0.0"
 
 [tool.poetry.dev-dependencies]
 
